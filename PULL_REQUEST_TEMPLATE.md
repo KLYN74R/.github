@@ -10,10 +10,7 @@ immediately.
 -->
 
 <!--
-Please provide clear motivation for your patch and explain how it improves
-Bitcoin Core user experience or Bitcoin Core developer experience
-significantly:
-
+ы
 * Any test improvements or new tests that improve coverage are always welcome.
 * All other changes should have accompanying unit tests (see `src/test/`) or
   functional tests (see `test/`). Contributors should note which tests cover
