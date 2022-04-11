@@ -34,3 +34,7 @@
 ## 📃Docs
 [<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">]()
 
+
+## 👁️Total visits
+<img align="center" src="https://profile-counter.glitch.me/KLYN74R/count.svg"/>
+
