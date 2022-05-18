@@ -24,7 +24,14 @@
 <a href="https://www.instagram.com/klyn74r/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
-
+  
+<a href="https://www.pinterest.com/klyn74r">
+<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"/>
+</a>
+  	
+<a href="https://dev.to/klyntar">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+</a>
 <a href="https://github.com/KLYN74R">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
