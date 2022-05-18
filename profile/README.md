@@ -88,5 +88,5 @@
 ## 👁️Total visits
 <img align="center" src="https://profile-counter.glitch.me/KLYN74R/count.svg"/>
 <br/> <br/> <br/> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&color=00ffd2&size=25&center=true&vCenter=true&lines=👽We+are+everywhere👽">
+<img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=25&color=00B594&center=true&vCenter=true&lines=%F0%9F%91%BDWe+are+everywhere%F0%9F%91%BD">
 </div>
