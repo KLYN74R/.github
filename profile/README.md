@@ -3,11 +3,11 @@
 
 <div align="center">
   
-## 📈Stats
+## Stats
 [<img src="https://img.shields.io/website-up-down-green-red/http/klyntar.org.svg"/>](http://klyntar.org)
 
 <br/> <br/>
-## 🔗Links
+## Links
 
 <a href="https://www.reddit.com/r/KLYN74R/">
 <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
@@ -53,7 +53,7 @@
 </a>
 
 <br/> <br/>
-## 💻Used languages
+## Used languages
 <a href="">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 </a>
@@ -81,11 +81,12 @@
 </a>
   
 <br/> <br/>
-## 📃Docs
+## Docs
 [<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">]()
+[<img src="https://img.shields.io/badge/Gitbook-000000?style=for-the-badge&logo=gitbook&logoColor=white">](https://mastering.klyntar.org)
 <br/> <br/> 
 
-## 👁️Total visits
+## Total visits
 <img align="center" src="https://profile-counter.glitch.me/KLYN74R/count.svg"/>
 <br/> <br/> <br/> 
 <img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=25&color=00B594&center=true&vCenter=true&lines=%F0%9F%91%BDWe+are+everywhere%F0%9F%91%BD">
