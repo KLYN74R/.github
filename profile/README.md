@@ -1,5 +1,8 @@
-![Alt Text](https://user-images.githubusercontent.com/53381472/169635566-a8dfaaca-1505-40d6-bb8a-af8e4ee30e9f.gif)
+
 <div align="center">
+ 
+<img src="https://user-images.githubusercontent.com/56048647/147860501-f043ee0e-f6e2-4ecb-8f93-f2673ed999f6.gif"/>
+<img src="https://user-images.githubusercontent.com/56048647/147860844-974225f6-312d-4960-825f-4c9f4f4ad589.gif"/>
   
 ## Stats
 [<img src="https://img.shields.io/website-up-down-green-red/http/klyntar.org.svg"/>](http://klyntar.org)
