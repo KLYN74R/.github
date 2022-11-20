@@ -46,7 +46,7 @@
 </a>
 
 
-<a href="https://www.youtube.com/channel/UC3TiyK40an6rQlf3BarMDoQ">
+<a href="https://www.youtube.com/@klyntar">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 <a href="https://www.facebook.com/KLYN74R/">
