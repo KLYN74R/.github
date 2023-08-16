@@ -1,8 +1,6 @@
 <div align="center">
 
-## KLYNTAR visualization by Midjourney
-
- <img src="https://user-images.githubusercontent.com/53381472/220953430-e8841c35-1832-411d-b0da-a8247c8242b7.jpg"/>
+ <img src="https://github.com/KLYN74R/KlyntarCore/assets/53381472/bef59aee-b7cb-490a-9b71-afc7470630d9"/>
  
 ## Stats
 [<img src="https://img.shields.io/website-up-down-green-red/http/klyntar.org.svg"/>](http://klyntar.org)
