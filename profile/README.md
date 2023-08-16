@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="https://github.com/KLYN74R/KlyntarCore/assets/53381472/bef59aee-b7cb-490a-9b71-afc7470630d9"/>
+ <img src="https://github.com/KLYN74R/KlyntarCore/assets/53381472/c051ee6a-5574-4458-9ff7-defd686b5d83"/>
  
 ## Stats
 [<img src="https://img.shields.io/website-up-down-green-red/http/klyntar.org.svg"/>](http://klyntar.org)
