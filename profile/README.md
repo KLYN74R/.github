@@ -1,7 +1,13 @@
 <div align="center">
 
  <img src="https://github.com/KLYN74R/KlyntarCore/assets/53381472/c051ee6a-5574-4458-9ff7-defd686b5d83"/>
- 
+
+</div>
+
+# Intro
+
+
+
 ## Stats
 [<img src="https://img.shields.io/website-up-down-green-red/http/klyntar.org.svg"/>](http://klyntar.org)
 
@@ -119,12 +125,6 @@
 </a>
 
   
-
 ## Total visits
 <img align="center" src="https://profile-counter.glitch.me/KLYN74R/count.svg"/>
 <br/> <br/> <br/> 
-<img src="https://readme-typing-svg.herokuapp.com?font=Major+Mono+Display&size=25&color=00B594&center=true&vCenter=true&lines=%F0%9F%91%BDWe+are+everywhere%F0%9F%91%BD">
-<br/> <br/> <br/> 
-<!--General-->
-<img src="https://metrics.lecoq.io/KLYN74R?template=classic&achievements=1&notable=1&repositories=1&tweets=1&base.indepth=false&base.hireable=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&repositories.pinned=0&tweets.user=.user.twitter&tweets.attachments=false&tweets.limit=2&config.timezone=Europe%2FKiev"/>
-</div>
