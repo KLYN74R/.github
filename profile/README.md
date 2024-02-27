@@ -6,13 +6,45 @@
 
 # Intro
 
+Welcome to KLYNTAR - a decentralized ecosystem of services for Web2 & Web3. Using a rich set of technologies and our knowledge, we are going to focus on solving a wide range of problems⚡⚡⚡
 
+Cryptography, decentralization, Artificial intelligence, quantum technologies - this is all about our platform.
 
-## Stats
-[<img src="https://img.shields.io/website-up-down-green-red/http/klyntar.org.svg"/>](http://klyntar.org)
+# Features
 
-<br/> <br/>
-## Links
+KLYNTAR (or KLY for short) is:
+
++ L1 chain and independent blockchain to implement the craziest ideas
++ High TPS & TTF indicators for the most comfortable interaction with the platform - all thanks to combinatorics + BFT consensus improvements.
++ This is a blockchain ecosystem like Polkadot or Cosmos. Join us!
++ Multilevel sharding for maximum efficiency
++ Multistaking - become a validator by pledging anything you want as collateral! Your Bitcoins, NFTs, stablecoins - everything can be used to become a validator
++ Wide range of cryptographic primitives - from Solana compatible Ed25519 to post-quantum algorithms
++ EVM & WASM & XVM virtual machines
++ Mutability - implement features on KLY without in a forkless way. Create a container and go!
++ Codeless smart contracts for the real world - create many contracts in a couple of clicks to protect all kinds of interaction with business and other people. Let's build an honest future together!
++ Tons of features for virtual machines including account abstraction 2.0, parallel processing, storage by subscription, low-level control, GPU & TFHE support and much more!
++ Intentions to be the first quantum currency⚛️⚡⚛️
++ AI for a range of tasks on the platform - use ZKML & FHE ML for your no-code smart contracts
++ Many products in the ecosystem - for Web2, Web3 and the real world
+
+------
+
+<div align="center">
+ 
+# Technologies first, hype later
+
+</div>
+
+------
+
+<div align="center">
+
+# Total visits
+
+<img align="center" src="https://profile-counter.glitch.me/KLYN74R/count.svg"/>
+
+# Links
 
 <a href="https://www.reddit.com/r/KLYN74R/">  
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
@@ -67,64 +99,4 @@
   <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>
 </a>
 
-<br/> <br/>
-## Used languages
-<a href="">
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-</a>
- 
- <a href="">
-  <img src="https://img.shields.io/badge/WebAssembly-654FF0?style=for-the-badge&logo=WebAssembly&logoColor=white"/>
- </a>
-
-<a href=""> 
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-</a>
- 
-<a href="">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=black">
-</a>
-  
-<br/> <br/>
-## Docs
-[<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">]()
-[<img src="https://img.shields.io/badge/Gitbook-000000?style=for-the-badge&logo=gitbook&logoColor=white">](https://mastering.klyntar.org)
-<br/> <br/> 
-## Available on
-<a href="">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</a>
-
-## Soon
-<a href="">
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
-</a>
-<a href="">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-</a>
-
-  
-## Total visits
-<img align="center" src="https://profile-counter.glitch.me/KLYN74R/count.svg"/>
-<br/> <br/> <br/> 
+</div>
