@@ -8,7 +8,7 @@
 
 Welcome to KLYNTAR - a decentralized ecosystem of services for Web2 & Web3. Using a rich set of technologies and our knowledge, we are going to focus on solving a wide range of problems⚡⚡⚡
 
-Cryptography, decentralization, Artificial intelligence, quantum technologies - this is all about our platform.
+**Cryptography**, **decentralization**, **artificial intelligence**, **quantum technologies** - this is all about our platform.
 
 # Features
 
