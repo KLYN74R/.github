@@ -16,7 +16,7 @@ KLYNTAR (or KLY for short) is:
 
 + L1 chain and independent blockchain to implement the craziest ideas
 + High TPS & TTF indicators for the most comfortable interaction with the platform - all thanks to combinatorics + BFT consensus improvements.
-+ This is a blockchain ecosystem like Polkadot or Cosmos. Join us!
++ This is an ecosystem of blockchains like Polkadot or Cosmos. Join us!
 + Multilevel sharding for maximum efficiency
 + Multistaking - become a validator by pledging anything you want as collateral! Your Bitcoins, NFTs, stablecoins - everything can be used to become a validator
 + Wide range of cryptographic primitives - from Solana compatible Ed25519 to post-quantum algorithms
@@ -25,7 +25,7 @@ KLYNTAR (or KLY for short) is:
 + Codeless smart contracts for the real world - create many contracts in a couple of clicks to protect all kinds of interaction with business and other people. Let's build an honest future together!
 + Tons of features for virtual machines including account abstraction 2.0, parallel processing, storage by subscription, low-level control, GPU & TFHE support and much more!
 + Intentions to be the first quantum currency⚛️⚡⚛️
-+ AI for a range of tasks on the platform - use ZKML & FHE ML for your no-code smart contracts
++ AI for a range of tasks on the platform - use ZKML & FHE ML for your RWX codeless smart contracts
 + Many products in the ecosystem - for Web2, Web3 and the real world
 
 ------
