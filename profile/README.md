@@ -16,6 +16,7 @@ KLYNTAR (or KLY for short) is:
 
 + L1 chain and independent blockchain to implement the craziest ideas
 + High TPS & TTF indicators for the most comfortable interaction with the platform - all thanks to combinatorics + BFT consensus improvements.
++ Maximum possible security level thanks to checkpoints in many other blockchains
 + This is an ecosystem of blockchains like Polkadot or Cosmos. Join us to use the pros of shared security and flexible staking schemes!
 + Multilevel sharding for maximum efficiency
 + Multistaking - become a validator by pledging anything you want as collateral! Your Bitcoins, NFTs, stablecoins - everything can be used to become a validator
