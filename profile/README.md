@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="https://github.com/VladChernenko/tbls/assets/53381472/5419b1e7-8b80-4d54-855e-5b9fba3c913a"/>
+ <img src="https://github.com/VladChernenko/tbls/assets/53381472/c58bc38c-f5f3-44e5-abea-f706e1bedf23"/>
 
 </div>
 
