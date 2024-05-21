@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="https://github.com/VladChernenko/Obsidian/assets/53381472/02d4fd7c-d578-4e09-aeed-8cab0e5426a1"/>
+ <img src="https://github.com/KLYN74R/KlyntarCore/assets/56048647/7ff9a6ab-9111-4af0-ad07-6d8a41ad22b7"/>
 
 </div>
 
