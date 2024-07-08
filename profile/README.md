@@ -1,6 +1,6 @@
 <div align="center">
 
- <img src="https://github.com/KLYN74R/.github/assets/53381472/8ef951e2-8b38-4dab-9b2b-73697795f57f"/>
+ <img src="https://github.com/KLYN74R/.github/assets/53381472/f88307d4-e929-4839-bf1b-63a8bf2b8ed8"/>
 
 </div>
 
