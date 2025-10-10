@@ -41,10 +41,6 @@ KLYNTAR (or KLY for short) is:
 
 <div align="center">
 
-# Total visits
-
-<img align="center" src="https://profile-counter.glitch.me/KLYN74R/count.svg"/>
-
 # Links
 
 <a href="https://www.reddit.com/r/KlyntarNetwork">  
